@@ -21,5 +21,5 @@ function appendKitten(n) {
 }
 
 function prependKitten(n) {
-  return [...nm, kittens];
+  return [...n, kittens];
 }
